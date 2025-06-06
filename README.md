@@ -1,11 +1,6 @@
 # 👋 Hello, I'm Shady!
 
-<p align="center">
-  <a href="https://github.com/Shady2Ibrahim" 
-     style="font-family: 'Fira Code', monospace; color: #f75c7e; text-decoration: none; font-size: 24px;">
-    shady Ibrahim
-  </a>
-</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=AI+Student+@+Minya+National+University;Game+%26+Web+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Tech&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -17,9 +12,7 @@
 
 💻 Passionate about:
 - 🤖 AI & Machine Learning (Computer Vision, Deep Learning)
-- 🎮 Game Development
-- 🌐 Web & Backend Development
-- 📱 Mobile Applications
+
 
 🔭 Currently exploring: AI applications in computer vision and web technologies
 
